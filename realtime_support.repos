@@ -1,0 +1,9 @@
+repositories:
+  rttest:
+    type: git
+    url: https://github.com/nightduck/rttest.git
+    version: rolling
+  tlsf_cpp:
+    type: git
+    url: https://github.com/nightduck/tlsf_cpp.git
+    version: rolling
